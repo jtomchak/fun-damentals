@@ -1,0 +1,16 @@
+{
+  "name": "fun-damentals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node fun.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
